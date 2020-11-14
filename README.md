@@ -9,7 +9,7 @@ Albert Einstein's birthday is 03/14/1879.
 Sadly, we don't have Alan Turing's birthday.
 ```
 
-another line
+this is a project for software development lab 2020
 
 ## Credits:
 
